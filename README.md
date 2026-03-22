@@ -21,7 +21,7 @@ Wikipedia (HTML)  ──→  extract()  ──→  transform()  ──→  load_
 ```
 
 > All implementation details, function logic, and task breakdowns live inside the source file:  
-> 👉 **[`ETL_Bank_Pipeline.py`](./ETL_Bank_Pipeline.py)**
+> 👉 **[`banks_project.py`](./banks_project.py)**
 
 ---
 
@@ -121,5 +121,4 @@ IBM Data Science Professional Certificate · Python Project for Data Engineering
 ---
 
 ## License
-
 This project is for educational purposes as part of the IBM Data Science Professional Certificate program.
